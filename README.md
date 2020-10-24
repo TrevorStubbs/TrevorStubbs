@@ -1,5 +1,5 @@
-## Trevor Stubbs
-### Software Engineer | Airline Pilot
+<h1>Trevor Stubbs</h1>
+<h2>Software Engineer | Airline Pilot<h2>
 
 <img src=https://github-readme-stats.vercel.app/api?username=TrevorStubbs&show_icons=true&hide=stars&count_private=true&theme=dark></img>
 
