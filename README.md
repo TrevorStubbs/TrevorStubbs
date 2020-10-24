@@ -1,7 +1,7 @@
-<h1>Trevor Stubbs</h1>
-<h2>Software Engineer | Airline Pilot<h2>
+## Trevor Stubbs
+### Software Engineer | Airline Pilot
 
-<img src=https://github-readme-stats.vercel.app/api?username=TrevorStubbs&show_icons=true&hide=stars&count_private=true&theme=dark></img>
+<img src="https://github-readme-stats.vercel.app/api?username=TrevorStubbs&show_icons=true&hide=stars&count_private=true&theme=dark"></img>
 
 <!--
 **TrevorStubbs/TrevorStubbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
